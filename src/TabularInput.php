@@ -14,8 +14,8 @@ use yii\base\Model;
 use yii\db\ActiveRecordInterface;
 use kartik\base\Widget;
 use kartik\form\ActiveForm;
-use romeoDenis\multipleinput\renderers\TableRenderer;
-use romeoDenis\multipleinput\renderers\RendererInterface;
+use unclead\multipleinput\renderers\TableRenderer;
+use unclead\multipleinput\renderers\RendererInterface;
 
 /**
  * Class TabularInput

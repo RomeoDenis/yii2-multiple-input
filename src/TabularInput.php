@@ -12,10 +12,10 @@ use Yii;
 use yii\base\InvalidConfigException;
 use yii\base\Model;
 use yii\db\ActiveRecordInterface;
-use yii\bootstrap\Widget;
-use yii\widgets\ActiveForm;
-use unclead\multipleinput\renderers\TableRenderer;
-use unclead\multipleinput\renderers\RendererInterface;
+use kartik\base\Widget;
+use kartik\form\ActiveForm;
+use romeoDenis\multipleinput\renderers\TableRenderer;
+use romeoDenis\multipleinput\renderers\RendererInterface;
 
 /**
  * Class TabularInput
